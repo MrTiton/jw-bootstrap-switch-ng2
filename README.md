@@ -37,7 +37,7 @@ CDN:
 ```html
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-switch/3.3.2/css/bootstrap3/bootstrap-switch.css">
 ```
-Or download from the official page [here](http://bootstrapswitch.com/)
+Or download from the official page [here](https://bttstrp.github.io/bootstrap-switch/)
 
 
 Add JwBootstrapSwitchNg2Module to your list of modules imports:
